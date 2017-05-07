@@ -1,0 +1,3 @@
+rootProject.name = 'pedometer3'
+
+include ':app'
